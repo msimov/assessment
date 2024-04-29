@@ -1,0 +1,47 @@
+[
+    {
+        "item_id": 1,
+        "category": "electronics",
+        "price": 250
+    },
+    {
+        "item_id": 2,
+        "category": "books",
+        "price": 15
+    },
+    {
+        "item_id": 3,
+        "category": "clothing",
+        "price": 50
+    },
+    {
+        "item_id": 4,
+        "category": "electronics",
+        "price": 200
+    },
+    {
+        "item_id": 5,
+        "category": "books",
+        "price": 20
+    },
+    {
+        "item_id": 6,
+        "category": "clothing",
+        "price": 75
+    },
+    {
+        "item_id": 7,
+        "category": "electronics",
+        "price": 450
+    },
+    {
+        "item_id": 8,
+        "category": "books",
+        "price": 12
+    },
+    {
+        "item_id": 9,
+        "category": "clothing",
+        "price": 60
+    }
+]
